@@ -1,5 +1,5 @@
 # Contrail-Statistics
-This analysis tool evaluates the atmospheric contrail formation conditions based on ECMWF ERA-5 Reanalysis data and helps to obtain an overview of the frequency of contrail formation over the last 10 years at different altitudes, seasons and regions. Detailed information can be found in the related work of Dischl et al., 2022.
+This analysis tool evaluates the atmospheric contrail formation conditions based on ECMWF ERA-5 Reanalysis data and helps to obtain an overview of the frequency of contrail formation and persistence over the last 10 years at different altitudes, seasons and regions. Detailed information can be found in the related work of Dischl et al., 2022.
 
 The theory of contrail formation used in this tool is obtained from Schumann, 1996.
 
